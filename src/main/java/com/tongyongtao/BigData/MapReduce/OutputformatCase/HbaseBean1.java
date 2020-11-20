@@ -2,6 +2,7 @@ package com.tongyongtao.BigData.MapReduce.OutputformatCase;
 
 
 import org.apache.hadoop.io.Writable;
+
 import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
@@ -63,7 +64,6 @@ public class HbaseBean1 implements Writable {
                 ", uid='" + uid + '\'' +
                 '}';
     }
-
 
 
     @Override

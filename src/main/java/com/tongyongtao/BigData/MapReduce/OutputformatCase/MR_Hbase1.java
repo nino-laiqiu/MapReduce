@@ -1,7 +1,6 @@
 package com.tongyongtao.BigData.MapReduce.OutputformatCase;
 
 import com.google.gson.Gson;
-import com.google.gson.JsonSyntaxException;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
